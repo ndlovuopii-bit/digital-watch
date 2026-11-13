@@ -1,2 +1,2 @@
-# digital-watch
-a simple watch that shows time 
+# Digital-clock
+A simple watch
